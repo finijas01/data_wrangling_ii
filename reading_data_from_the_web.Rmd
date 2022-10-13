@@ -1,0 +1,11 @@
+---
+title: "Reading data from the Web"
+author: "Jasmine Niu (jn2855)"
+date: "2022-10-13"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
